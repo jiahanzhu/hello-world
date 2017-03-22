@@ -1,3 +1,4 @@
 # hello-world
+=============
 my first repository
-Yes
+Hubot here, I like Node,js and coffe.
